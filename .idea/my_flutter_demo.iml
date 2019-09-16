@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../my_flutter_demo/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../my_flutter_demo/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../my_flutter_demo/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../my_flutter_demo/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../my_flutter_demo/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../my_flutter_demo/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../my_flutter_demo/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/__MACOSX" />
+      <excludeFolder url="file://$MODULE_DIR$/my_flutter_demo" />
+      <excludeFolder url="file://$MODULE_DIR$/my_flutter_demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_flutter_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_flutter_demo/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+  </component>
+</module>
